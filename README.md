@@ -30,7 +30,7 @@
 
 ## 📫 Connect With Me  
 - 📧 [keerthana.harish07@gmail.com](mailto:keerthana.harish07@gmail.com)  
-- 💼 [LinkedIn](www.linkedin.com/in/keerthana-harish-07bh/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/keerthana-harish-07bh)  
 - 💻 [GitHub](https://github.com/keerthana-0720)  
 
 ---
