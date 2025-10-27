@@ -15,7 +15,7 @@
 ---
 
 ## 🛠️ Tech Stack  
-- **Languages:** Java, Python, C, SQL, JavaScript  
+- **Languages:** Java,Python,C,SQL,JavaScript  
 - **Web:** HTML, CSS, React, Node.js  
 - **Database:** MySQL  
 - **Core CS:** DSA, DBMS, Algorithms, Computer Organization  
