@@ -16,10 +16,10 @@
 
 ## 🛠️ Tech Stack  
 - **Languages:** Java,Python,C,SQL,JavaScript  
-- **Web:** HTML, CSS, React, Node.js  
+- **Web:** HTML,CSS,React,Node.js  
 - **Database:** MySQL  
-- **Core CS:** DSA, DBMS, Algorithms, Computer Organization  
-- **Tools:** Git, GitHub, VS Code,Power BI 
+- **Core CS:** DSA,DBMS,Algorithms,Computer Organization  
+- **Tools:** Git,GitHub,VS Code,Power BI 
 
 ---
 
