@@ -19,7 +19,7 @@
 - **Web:** HTML, CSS, React, Node.js  
 - **Database:** MySQL  
 - **Core CS:** DSA, DBMS, Algorithms, Computer Organization  
-- **Tools:** Git, GitHub, VS Code  
+- **Tools:** Git, GitHub, VS Code,Power BI 
 
 ---
 
