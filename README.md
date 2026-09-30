@@ -7,7 +7,7 @@
 
 ## 🚀 About Me  
 - 🎓 B.Tech in **Computer Science(Artificial intelligence and machine learning) at Reva University** 
-- 💻 Strong in **Python | Data Structures & Algorithms | AIML | DBMS | Web Development**  
+- 💻 Strong in **Python | Data Structures & Algorithms | AIML | DBMS | Web Development | Agentic AI | MLOPS**  
 - 🌱 Currently exploring **AI-powered projects & advanced web dev** 
 - 🎯 Career Goal: **Land a high-paying tech role** 
 - 🤝 Open to **collaborations, GSoC prep, and hackathons** 
