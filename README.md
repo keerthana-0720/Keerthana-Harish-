@@ -1,7 +1,7 @@
 # Hi 👋, I'm Keerthana Harish
 
-🌟 **Passionate AIML Student | AI/ML Enthusiast | Web Developer**  
-🚀 Always learning, building, and solving real-world problems with code.  
+🌟 **Passionate AIML Student**  
+🚀 Always learning, building and solving real-world problems with code.  
 
 ---
 
